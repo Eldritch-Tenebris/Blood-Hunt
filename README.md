@@ -93,3 +93,10 @@ Itens que podem ser adquiridos na loja:
 ✅ Cooldown reduzido em 50%.
 💲 Preço: R$ 19,90/mês.
 ```
+
+https://i.imgur.com/KibcEam.png
+
+> Entre em contato conosco para solicitar seu bot, nossos discords:
+
+- @lipe_tato
+- @eldritch.tenebris
