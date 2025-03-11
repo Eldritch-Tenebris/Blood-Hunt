@@ -1,4 +1,4 @@
-https://cdn.discordapp.com/attachments/1345546983208779788/1349000648783298631/Copia_de_TS.png?ex=67d18241&is=67d030c1&hm=5e22afd2fe39bcd6aa6a76710878562fd2ccb7c3dd5e64aee8825ee84aeb21c7&
+![Imagem-Começo](https://cdn.discordapp.com/attachments/1345546983208779788/1349000648783298631/Copia_de_TS.png?ex=67d18241&is=67d030c1&hm=5e22afd2fe39bcd6aa6a76710878562fd2ccb7c3dd5e64aee8825ee84aeb21c7&)
 
 ---
 
