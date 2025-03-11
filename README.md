@@ -109,5 +109,6 @@ Itens que podem ser adquiridos na loja:
 
 > Entre em contato conosco para solicitar seu bot, nossos discords:
 
-- @lipe_tato
 - @eldritch.tenebris
+- @nazuna
+- @lipe_tato
