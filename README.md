@@ -94,7 +94,7 @@ Itens que podem ser adquiridos na loja:
 💲 Preço: R$ 19,90/mês.
 ```
 
-https://i.imgur.com/KibcEam.png
+![Imagem-Contato](https://i.imgur.com/KibcEam.png)
 
 > Entre em contato conosco para solicitar seu bot, nossos discords:
 
