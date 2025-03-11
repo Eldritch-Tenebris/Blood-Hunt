@@ -4,6 +4,10 @@
 
 # 🩸 Blood Hunt - O Jogo de Assassinos no Discord
 
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 ## 📖 Sobre o Bot
 **Blood Hunt** é um bot de RPG para Discord onde os jogadores assumem o papel de assassinos caçando uns aos outros e NPCs. O sangue derramado se torna a moeda do jogo, permitindo a compra de armas, equipamentos e melhorias. O jogo possui um sistema de evolução baseado em contratos e missões, além de um ranking para os assassinos mais letais. Há também um sistema VIP, oferecendo vantagens exclusivas e gerando receita para o servidor.
 
@@ -22,11 +26,13 @@ Os jogadores podem escolher entre diferentes classes de assassinos, cada uma com
 - **Habilidade Passiva:** +5% de roubo de sangue ao atacar.
 - **Habilidade Ativa:** "Veneno Mortal" – O alvo perde 100 Sangue a cada turno por 3 turnos (Cooldown: 4 caçadas).
 
+---
+
 ## 📜 Planejamento dos Comandos do Blood Hunt
 
-## 1. Comandos de Jogo 🎮
+### 🎮 1. Comandos de Jogo
 
-### `/caçar @usuário`
+#### `/caçar @usuário`
 - **Descrição:** Ataca outro jogador para roubar sangue.
 - **Requisitos:** Deve ter pelo menos uma arma equipada.
 - **Cooldown:** 5 minutos.
@@ -38,7 +44,7 @@ Os jogadores podem escolher entre diferentes classes de assassinos, cada uma com
 
 ---
 
-### `/caçar npc`
+#### `/caçar npc`
 - **Descrição:** Ataca um alvo gerado pelo bot.
 - **Requisitos:** Custa 100 Sangue para iniciar uma caçada.
 - **Resultado:** O jogador pode ganhar sangue e itens raros.
@@ -48,18 +54,18 @@ Os jogadores podem escolher entre diferentes classes de assassinos, cada uma com
 
 ---
 
-### `/ranking`
+#### `/ranking`
 - **Descrição:** Exibe os assassinos mais perigosos do servidor.
 
 ---
 
-### `/contrato aceitar`
+#### `/contrato aceitar`
 - **Descrição:** Pega um contrato aleatório para assassinar um alvo NPC.
 - **Resultado:** O jogador recebe uma missão e pode ganhar sangue ao completar.
 
 ---
 
-### `/contrato concluir`
+#### `/contrato concluir`
 - **Descrição:** Conclui a missão e recebe a recompensa.
 
 ---
@@ -85,8 +91,9 @@ Itens que podem ser adquiridos na loja:
 3️⃣ Máscara do Carniceiro - 2.500 Sangue
 ```
 
-## 4. Comandos VIP (Monetização) 💎
-### `/vip comprar`
+## 💎 4. Comandos VIP (Monetização)
+
+#### `/vip comprar`
 - **Descrição:** Mostra os benefícios da versão VIP e permite a compra.
 
 💬 **Exemplo de resposta:**
